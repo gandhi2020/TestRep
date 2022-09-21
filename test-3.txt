@@ -1,2 +1,3 @@
 A new file setup in development branch. 
 A pull request to be created on the Development branch. Before which the changes are merged to the main branch
+After successful merge, the development branch is now deleted. So we have only one branch. i.e Main
